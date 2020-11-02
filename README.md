@@ -2,9 +2,6 @@
 The goal of the first project is use Elixir and the actor model to build a good solution to find a 
 vampire number with distinct pair of fangs.
 
-## Group Info
-  - Shashi Prakash,  UFID:5891-2989
-  - Shivam Agarwal,  UFID: 0319-3956
 
 ## Instructions
 ```mix run project1.exs lb ub ``` where the program finds all vampire numbers and its fangs between lb to ub. 
